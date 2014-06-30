@@ -1,0 +1,12 @@
+# Site settings
+title: paul robinson
+email: paul@elasticrat.com
+description: "I'm an iOS developer living in California."
+baseurl: ""
+url: "http://paulrobinson.net"
+twitter_username: paulr
+github_username:  pxr
+
+# Build settings
+markdown: kramdown
+permalink: pretty
